@@ -21,4 +21,4 @@ def index3():
     return 'hello {} in dir /test2'.format(demo)
 
 
-app.run(host='127.0.0.1', port='8080')
+app.run(host='localhost', port='8080')
