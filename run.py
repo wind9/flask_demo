@@ -17,7 +17,7 @@ def index2():
 
 
 @app.route('/test2')
-def index2():
+def index3():
     return 'hello {} in dir /test2'.format(demo)
 
 
